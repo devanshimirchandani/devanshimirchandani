@@ -15,7 +15,11 @@
  
  🌱 I’m currently learning **DSA, full-stack development**
 
- 🐈‍⬛ Fun fact: I love cats!  
+ 🎯 My goal is **to contribute to open source projects with a cause**
+
+ 🌎 I want to travel the world to **learn and speak about Computer Science!**
+
+ 🐈‍⬛ Fun fact: I'm born and raised in Dubai!
 
  💬 Learn about my experiences [here](https://drive.google.com/file/d/1WqO_EFKrq8IgrCZ_3pJua2u_PBpV70vo/view?usp=sharing) 
  
