@@ -71,7 +71,7 @@
 <hr/>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&center=true&color=7D7D7D&vCenter=true&width=500&height=70&duration=4000&lines=Reach+out+to+me!;+I'm+always+keen+to+meet+new+people+:);" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&center=true&color=7D7D7D&vCenter=true&width=500&height=70&duration=5000&lines=Reach+out+to+me!;+I'm+always+keen+to+meet+new+people+:);" />
 </h3>
 
 <br/>
