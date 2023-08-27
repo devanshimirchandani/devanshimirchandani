@@ -5,19 +5,17 @@
 </h1>
 
 
-<h3 align="center">A passionate Computer Science student in Australia 🇦🇺</h3>
+<h3 align="center">An enthusiastic Computer Science student in Sydney, Australia 🇦🇺</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **a chat app**
+ 📓 I’m currently studying **Advanced Computing**
  
  🌱 I’m currently learning **DSA, full-stack development**
 
  💬 
-
- ⚡ 
  
  </div>
  
