@@ -15,7 +15,9 @@
  
  🌱 I’m currently learning **DSA, full-stack development**
 
- 💬 
+ 🐈‍⬛ Fun fact: I love cats!  
+
+ 💬 Learn about my experiences [here](https://drive.google.com/file/d/1WqO_EFKrq8IgrCZ_3pJua2u_PBpV70vo/view?usp=sharing) 
  
  </div>
  
