@@ -13,7 +13,7 @@
  
  📓 I’m currently studying **Advanced Computing**
  
- 🌱 I’m currently learning **DSA, full-stack development**
+ 🌱 I’m currently learning **DSA, Full-stack Development**
 
  🎯 My goal is **to contribute to open source projects with a cause**
 
