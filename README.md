@@ -5,7 +5,7 @@
 </h1>
 
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=7D7D7D&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B%F0%9F%8F%BC+;I'm+Devanshi+Mirchandani+%F0%9F%99%8B%F0%9F%8F%BD%E2%80%8D%E2%99%80%EF%B8%8F" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1001&color=7D7D7D&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B%F0%9F%8F%BC+;I'm+Devanshi+Mirchandani+%F0%9F%99%8B%F0%9F%8F%BD%E2%80%8D%E2%99%80%EF%B8%8F" alt="Typing SVG" /></a>
 </h1>
 
 <h3 align="center">A passionate Computer Science student in Australia 🇦🇺</h3>
