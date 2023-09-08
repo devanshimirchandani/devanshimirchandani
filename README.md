@@ -19,7 +19,7 @@
 
  🌎 I want to travel the world to **learn and speak about Computer Science!**
 
- 🐈‍⬛ Fun fact: I'm born and raised in Dubai! 💬 Learn more about my experiences [here](https://drive.google.com/file/d/1WqO_EFKrq8IgrCZ_3pJua2u_PBpV70vo/view?usp=sharing) 
+ 🐈‍⬛ Fun fact: I'm born and raised in Dubai! 💬 Reach out to learn more about my experiences!
  
  </div>
  
