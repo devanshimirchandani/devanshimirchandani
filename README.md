@@ -1,4 +1,4 @@
-3rd-year Computational Data Science & Finance student @ The University of Sydney.
+3rd-year Advanced Computing student @ The University of Sydney.
 
 Building. Breaking. Learning.
 
