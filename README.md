@@ -1,4 +1,4 @@
-3rd-year Advanced Computing student @ The University of Sydney.
+Final-year Computing student @ The University of Sydney.
 
 Building. Breaking. Learning.
 
